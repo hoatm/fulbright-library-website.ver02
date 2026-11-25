@@ -1,0 +1,5 @@
+# Font co ban quyen cua FUV - khong dua len kho cong khai
+fonts/
+*.otf
+*.ttf
+.DS_Store
